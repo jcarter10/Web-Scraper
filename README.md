@@ -1,5 +1,5 @@
 # Description
-Python scripts to showcase web-scraping skills using BeautifulSoup4 for parsing and Pandas for saving results.
+Python script(s) to showcase web-scraping skills using BeautifulSoup4 for parsing and Pandas for saving results.
 
 # Installation
 - cd to project root.
