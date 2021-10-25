@@ -1,5 +1,5 @@
 # Description
-Python script(s) to showcase web-scraping skills by utilizing BeautifulSoup4 for parsing and Pandas for saving the extracted information. The scripts are tailored to my own needs but can be easily modifed to change the search keyword or number of max entries. If different information is wanted for extraction, then some basic HTML/JavaScript is required to read the source code of the website to get the correct tags needed for finding the information. 
+Python script(s) to showcase web-scraping skills by utilizing BeautifulSoup4 for parsing and Pandas for saving the extracted information. The scripts are tailored to my own needs but can be easily modifed to change the search keyword or number of max entries. If different information is wanted for extraction, then some basic HTML/JavaScript is required to read the source code of the website in order to get the correct tags needed for finding the information. 
 
 # Installation
 - cd to project root.
