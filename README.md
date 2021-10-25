@@ -10,7 +10,7 @@ Current Scripts:
 - call the script using following command 'python indeed_scraper.py'.
 
 # Results
-Scraping 25 entries:
+Scraping 25 entries from Indeed:
 <p align="center">
   <img src="screenshots/results.PNG">
 </p>
