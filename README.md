@@ -11,6 +11,10 @@ Good to have:
 - call the script using following command 'python indeed_scraper.py'.
 
 # Results
+Scraping 25 entries:
+<p align="center">
+  <img src="screenshots/result.PNG">
+</p>
 
 
 More coming soon...
