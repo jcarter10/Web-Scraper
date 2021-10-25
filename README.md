@@ -1,9 +1,8 @@
 # Description
-Python scripts to showcase web-scraping skills using BeautifulSoup4 for parsing and Pandas for saving. 
+Python scripts to showcase web-scraping skills using BeautifulSoup4 for parsing and Pandas for saving.
 
-Good to have:
-- Basic understanding of HTML/CSS/JavaScript for examining the source code in order to parse specific information.
-- 
+Current Scripts:
+- Indeed
 
 # Installation
 - cd to project root.
@@ -13,8 +12,6 @@ Good to have:
 # Results
 Scraping 25 entries:
 <p align="center">
-  <img src="screenshots/result.PNG">
+  <img src="screenshots/results.PNG">
 </p>
 
-
-More coming soon...
